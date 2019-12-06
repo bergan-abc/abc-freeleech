@@ -61,4 +61,4 @@ It is a derivative work from LH-ABC by Roee Shlomo © 2007-2008 released under t
 
 This software and the whole package comes without warranty. It may or may not harm your computer. Please use with care. Any damage cannot be related back to the author. The software has been tested on a virtual environment and scanned for viruses and has passed all tests.
 
-  [1]: https://raw.githubusercontent.com/bergan-abc/abc-freeleech/master/release/ABC-Freeleech-win32-3.3.0.1.exe
+  [1]: https://github.com/bergan-abc/abc-freeleech/releases/download/3.3.0.1/ABC-Freeleech-win32-3.3.0.1.exe
