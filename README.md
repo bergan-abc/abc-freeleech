@@ -1,4 +1,4 @@
-# ABC-Freeleech [![Platform](https://img.shields.io/badge/Platform-win32-blue.svg)](https://github.com/bergan-abc/abc-freeleech/releases/tag/v3.3.0.1) [![GitHub release](https://img.shields.io/badge/Release-3.3.0.1-green.svg)](https://github.com/bergan-abc/abc-freeleech/releases/tag/v3.3.0.1)
+# ABC-Freeleech [![Platform](https://img.shields.io/badge/Platform-win32-red.svg)](https://github.com/bergan-abc/abc-freeleech/releases/tag/v3.3.0.1) [![GitHub release](https://img.shields.io/badge/Release-3.3.0.1-green.svg)](https://github.com/bergan-abc/abc-freeleech/releases/tag/v3.3.0.1) [![Donate](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://paypal.me/berganabc)
 
 Easily bypass Bittorrent tracker's ratio restrictions.
 
