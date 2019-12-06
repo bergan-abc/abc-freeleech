@@ -23,7 +23,7 @@ Be warned that License Challenge & License Keys are attached to a computer. They
 
 ## Installation
 
-Download a [release version][1] and start the installer.
+Download [latest release version][1] and start the installer.
 
 ## Compatibility
 
