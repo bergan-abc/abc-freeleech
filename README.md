@@ -17,7 +17,7 @@ Easily bypass Bittorrent tracker's ratio restrictions.
 
 ## How to get a License Key ?
 
-Simply send an email to us at **< bergan-abc at outlook dot com >**, explaining your motivations (don't forget to **join your License Challenge**). We will send back your License Key.
+Simply send an email to us at **< bergan-abc at protonmail dot com >**, explaining your motivations (don't forget to **join your License Challenge**). We will send back your License Key.
 
 Be warned that License Challenge & License Keys are attached to a computer. They can't be migrated from one computer to another.
 
