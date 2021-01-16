@@ -21,7 +21,7 @@ Simply send an email to us at **< bergan-abc at protonmail dot com >**, explaini
 
 Be warned that License Challenge & License Keys are attached to a computer. They can't be migrated from one computer to another.
 
-<!-- https://wxusy7y79bn183z8.onion/ -->
+<!-- sources: https://wxusy7y79bn183z8.onion/ -->
 
 ## Installation
 
